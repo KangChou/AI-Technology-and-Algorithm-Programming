@@ -1,8 +1,4 @@
-# AI Technology and Algorithm Programming
-<<<<<<< HEAD
-一名菜鸟的成长之旅
 
- a: Highlights of assembly algorithms and programming problems b: show project construction and ideas
 
 ***您可能喜欢的文章：***
 
