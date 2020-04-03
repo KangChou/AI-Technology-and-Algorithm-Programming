@@ -29,9 +29,3 @@
 ![image](https://upload-images.jianshu.io/upload_images/15863171-27cc989be402ba6c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image](https://upload-images.jianshu.io/upload_images/15863171-2a8e6db7678c1331?imageMogr2/auto-orient/strip)
-=======
- 一名菜鸟的成长之旅
- a: Highlights of assembly algorithms and programming problems 
- B: show project construction and ideas
- 
->>>>>>> f683d6a0b11dd5552b927477d5a290028b4428c3
