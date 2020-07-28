@@ -7,9 +7,9 @@
   A: Highlights of assembly algorithms and programming problems. 
  B: show project construction and ideas 
 
-深度学习官网开源书籍
+深度学习官网开源书籍  
 
-![image-20200728231437641](C:\Users\kangs\AppData\Roaming\Typora\typora-user-images\image-20200728231437641.png)
+![image-20200728231437641](https://s1.ax1x.com/2020/07/28/aVGUit.png)
 
 数学分析上下册
 
